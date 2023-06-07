@@ -1,0 +1,3 @@
+base: entreprise
+utilisateur: entreprise_agent
+mdp: ax3n@rYg4R._x[rC

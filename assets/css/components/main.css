@@ -1,0 +1,28 @@
+main {
+    min-height: 90vh;
+}
+
+#listeEmployes {
+    transition: 0.6s all ease-in-out;
+    -webkit-transition: 0.6s all ease-in-out;
+    -moz-transition: 0.6s all ease-in-out;
+    -ms-transition: 0.6s all ease-in-out;
+    -o-transition: 0.6s all ease-in-out;
+}
+
+#listeEmployes:hover {
+    cursor: default;
+}
+
+#listeEmployes tr:hover td,
+#listeEmployes tr:hover th,
+#listeEmployes tr:hover 
+{
+    --bs-table-bg-type: none;
+    background: #fff!important;
+    transition: 0.2s all ease-in-out;
+    -webkit-transition: 0.2s all ease-in-out;
+    -moz-transition: 0.2s all ease-in-out;
+    -ms-transition: 0.2s all ease-in-out;
+    -o-transition: 0.2s all ease-in-out;
+}

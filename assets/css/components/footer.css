@@ -1,0 +1,14 @@
+:root {
+    --footer-background: #121212;
+    --footer-color: #fff;
+}
+
+footer {
+    min-height: 200px;
+    background:var(--footer-background);
+    color: var(--footer-color);
+}
+
+footer div {
+    min-height: 200px;
+}

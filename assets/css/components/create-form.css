@@ -1,0 +1,8 @@
+.form-container {
+    width: 500px;
+    max-width: 100%;
+}
+
+.form-container #createForm {
+    width: 100%;
+}
